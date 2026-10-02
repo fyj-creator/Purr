@@ -1,4 +1,8 @@
-# Purr
+<p align="center"><img src="images/icon.png" width="160" alt="Purr app icon"></p>
+
+<h1 align="center">Purr</h1>
+
+<p align="center"><img src="images/states.png" width="720" alt="The five cat states: working, done, idle, needs you, offline"></p>
 
 A little pixel cat in your Mac menu bar that shows what the Claude desktop app is doing (Chat and Cowork).
 
@@ -8,13 +12,13 @@ You need an Apple Silicon Mac (M1 or newer) with macOS 13 or later, and the Clau
 
 ## What the cat means
 
-| Cat | Meaning |
-|---|---|
-| Green, walking | Claude is working (with a short status and timer) |
-| Green with a heart | Claude just finished (shown for 10 seconds) |
-| White | Claude is open and idle |
-| Red | Claude is waiting for your permission |
-| Faint, asleep | Claude is closed, or Purr has no access yet |
+| | Cat | Meaning |
+|---|---|---|
+| <img src="images/working.png" width="72" alt="working"> | **Green, walking** | Claude is working (with a short status and timer) |
+| <img src="images/done.png" width="72" alt="done"> | **Green with a heart** | Claude just finished (shown for 10 seconds) |
+| <img src="images/idle.png" width="72" alt="idle"> | **White** | Claude is open and idle |
+| <img src="images/needs.png" width="72" alt="needs"> | **Red** | Claude is waiting for your permission |
+| <img src="images/offline.png" width="72" alt="offline"> | **Faint, asleep** | Claude is closed, or Purr has no access yet |
 
 Click the cat to open its panel: a starry night scene, what Claude is doing right now, today's stats and recent steps.
 
