@@ -24,6 +24,8 @@ Click the cat to open its panel: a starry night scene, what Claude is doing righ
 
 ## How to open
 
+Prefer a one-page printable guide? Get the **[How to open PDF](Purr-How-to-open.pdf)**.
+
 ### 1. Unzip and move it
 
 Double-click **Purr.zip**, then drag **Purr** into your **Applications** folder.
