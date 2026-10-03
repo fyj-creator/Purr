@@ -46,7 +46,7 @@ Purr reads the Claude window the way a screen reader does. It never clicks, type
 
 ### 4. Find the cat
 
-Look at the top-right of your screen. Use the **⚙︎** button in the panel to turn on **Open at login**, notifications, or sounds: one sound when Claude finishes and a meow when it needs you.
+Look at the top-right of your screen. Use the **⚙︎** button in the panel to turn on **Open at login**, notifications, or sounds: a bell when Claude finishes and a meow when it needs you.
 
 ## Updating
 
