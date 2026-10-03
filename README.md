@@ -65,6 +65,6 @@ Click the cat, then the **↻** button at the bottom of the panel (or **⚙︎**
 
 The meow that plays when Claude needs you is adapted from ["Meow normalized.opus"](https://commons.wikimedia.org/wiki/File:Meow_normalized.opus) on Wikimedia Commons (original recording "Meow.ogg" uploaded by Dcrosby at English Wikipedia, normalised version by Okterakt), licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/). Changes: background noise removed, trimmed, faded and volume-adjusted. The adapted sound inside the app (`needs_you.wav`) is shared under the same licence.
 
-The bell that plays when Claude finishes is a sound effect from [Uppbeat's Ding collection](https://uppbeat.io/sfx/category/notifications/ding), edited (softened, cut to a single strike and volume-adjusted), used under the Uppbeat licence. It is not covered by the Creative Commons licence above and may not be extracted or redistributed on its own.
+The bell that plays when Claude finishes is a sound effect from [Uppbeat's Ding collection](https://uppbeat.io/sfx/category/notifications/ding), edited (softened, faded and volume-adjusted), used under the Uppbeat licence. It is not covered by the Creative Commons licence above and may not be extracted or redistributed on its own.
 
 Purr is an independent hobby project. It is not made or endorsed by Anthropic.
