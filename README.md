@@ -46,7 +46,7 @@ Purr reads the Claude window the way a screen reader does. It never clicks, type
 
 ### 4. Find the cat
 
-Look at the top-right of your screen. Use the **⚙︎** button in the panel to turn on **Open at login**, notifications, or sounds: a meow when Claude finishes and two quick meows when it needs you.
+Look at the top-right of your screen. Use the **⚙︎** button in the panel to turn on **Open at login**, notifications, or sounds: one sound when Claude finishes and a meow when it needs you.
 
 ## Updating
 
@@ -61,8 +61,6 @@ Click the cat, then the **↻** button at the bottom of the panel (or **⚙︎**
 
 ## Credits
 
-The meow is adapted from ["Meow normalized.opus"](https://commons.wikimedia.org/wiki/File:Meow_normalized.opus) on Wikimedia Commons (original recording "Meow.ogg" uploaded by Dcrosby at English Wikipedia, normalised version by Okterakt), licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/). Changes: background noise removed, trimmed, faded and volume-adjusted. The adapted sound inside the app (`meow_real.wav`) is shared under the same licence.
-
-The two meows that play when Claude needs you are adapted from ["Cat meowing twice"](https://tuna.voicemod.net/sound/3b8ee01d-d3d7-47eb-b1f1-d190d532be85) uploaded by koriiiiiiiiiiiiii on Voicemod Tuna (background noise removed, gap shortened, sped up). No licence is stated for it, so it is not covered by the Creative Commons licence above. If you own this sound and want it removed, please open an issue.
+The meow that plays when Claude needs you is adapted from ["Meow normalized.opus"](https://commons.wikimedia.org/wiki/File:Meow_normalized.opus) on Wikimedia Commons (original recording "Meow.ogg" uploaded by Dcrosby at English Wikipedia, normalised version by Okterakt), licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/). Changes: background noise removed, trimmed, faded and volume-adjusted. The adapted sound inside the app (`needs_you.wav`) is shared under the same licence.
 
 Purr is an independent hobby project. It is not made or endorsed by Anthropic.
