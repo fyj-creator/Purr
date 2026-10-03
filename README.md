@@ -14,7 +14,7 @@ You need an Apple Silicon Mac (M1 or newer) with macOS 13 or later, and the Clau
 
 | | Cat | Meaning |
 |---|---|---|
-| <img src="images/working.png" width="72" alt="working"> | **Green, walking** | Claude is working (with a short status and timer) |
+| <img src="images/working.png" width="72" alt="working"> | **Yellow, walking** | Claude is working (with a short status and timer) |
 | <img src="images/done.png" width="72" alt="done"> | **Green with a heart** | Claude just finished (shown for 10 seconds) |
 | <img src="images/idle.png" width="72" alt="idle"> | **White** | Claude is open and idle |
 | <img src="images/needs.png" width="72" alt="needs"> | **Red** | Claude is waiting for your permission |
@@ -46,11 +46,11 @@ Purr reads the Claude window the way a screen reader does. It never clicks, type
 
 ### 4. Find the cat
 
-Look at the top-right of your screen. Use the **⚙︎** button in the panel to turn on **Open at login**, notifications, or a meow when Claude finishes.
+Look at the top-right of your screen. Use the **⚙︎** button in the panel to turn on **Open at login**, notifications, or sounds: a meow when Claude finishes and a bell when it needs you.
 
 ## Updating
 
-Click the cat → **⚙︎** → **Check for updates…**. If a newer version exists, press **Install**. Purr downloads it, checks it, replaces itself and reopens.
+Click the cat, then the **↻** button at the bottom of the panel (or **⚙︎** → **Check for updates…**). If a newer version exists, press **Install**. Purr downloads it, checks it, replaces itself and reopens.
 
 ## Troubleshooting
 
@@ -62,5 +62,7 @@ Click the cat → **⚙︎** → **Check for updates…**. If a newer version ex
 ## Credits
 
 The meow is adapted from ["Meow normalized.opus"](https://commons.wikimedia.org/wiki/File:Meow_normalized.opus) on Wikimedia Commons (original recording "Meow.ogg" uploaded by Dcrosby at English Wikipedia, normalised version by Okterakt), licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/). Changes: background noise removed, trimmed, faded and volume-adjusted. The adapted sound inside the app (`meow_real.wav`) is shared under the same licence.
+
+The bell that plays when Claude needs you is "Notification bell - digital ding" by Bosnow, from [Uppbeat](https://uppbeat.io/), used under the Uppbeat licence. It was converted to mono and volume-adjusted. It is not covered by the Creative Commons licence above and may not be extracted or redistributed on its own.
 
 Purr is an independent hobby project. It is not made or endorsed by Anthropic.
